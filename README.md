@@ -7,5 +7,5 @@ dequeue(): This operation removes and returns an element that is at the front en
 front(): This operation returns the element at the front end without removing it.
 rear(): This operation returns the element at the rear end without removing it.
 
-Syntax
+
 
